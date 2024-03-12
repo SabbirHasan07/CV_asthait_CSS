@@ -1,0 +1,17 @@
+.sectionFlex{
+    display: flex;
+}
+.sectionOne{
+    background-color: rgb(1, 54, 75);
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+}
+.textColor{
+    color: white;
+    text-align: left;
+}
+.textCenter{
+    text-align: center;
+}
