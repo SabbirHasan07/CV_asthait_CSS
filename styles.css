@@ -9,6 +9,8 @@
 .textColor{
     color: white;
     text-align: left;
+    text-decoration: none;
+    font-size: large;
 }
 .textCenter{
     text-align: center;
